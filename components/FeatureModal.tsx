@@ -23,7 +23,7 @@ export const FeatureModal: React.FC<FeatureModalProps> = ({ isOpen, onClose, fea
             ],
         },
         interpreter: {
-            title: '🎤 Tổng đài phiên dịch viên',
+            title: '📞 Tổng đài phiên dịch viên',
             icon: '💬',
             description: 'Liên hệ tổng đài phiên dịch viên cho sự kiện hoặc hỗ trợ giao tiếp.',
             features: [
